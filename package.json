@@ -16,6 +16,6 @@
     "serverless-plugin-typescript": "^1.1.7"
   },
   "dependencies": {
-    "serverless": "^1.46.1"
+    "serverless": "^1.83.3"
   }
 }
